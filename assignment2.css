@@ -1,0 +1,80 @@
+.blog{
+    background-color:#343a40;
+    display: inline-block;
+}
+.blog h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    color: white;
+    font-weight: 300;
+}
+
+.blog p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: white;
+    font-weight: lighter;
+}
+.blog button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    font-weight: bold;
+    color: white;
+}
+
+.world p{
+    color: blue;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.world h4{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: 500;
+
+}
+.date p{
+    color: grey;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.text p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    color: rgb(37, 136, 248);
+}
+
+.design p{
+    color: green;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.design h4{
+    color: black;;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.date2 p{
+    color: grey;
+}
+
+.about{
+    background-color: rgb(233, 234, 235);
+}
+.footer{
+    background-color: rgb(233, 234, 235);
+}

@@ -1,0 +1,28 @@
+1. find the square of a given number:
+ --> enter a number 
+ --> multiply by the same number
+
+2. look at the time of the day and tell whether it's time for breakfast, 
+lunch of dinner:
+ -->please enter time (in 24hr format)
+ -->is time less than 12?
+ --> if true then breakfast
+ --> if time greater than 12 but less than 19 then lunch
+ --> if time greater 19 then dinner
+
+3. given a number, find whether the number is odd or even:
+ --> enter a number between 1 - 10
+ --> if user number is 1 or 3 or 5 or 7 or 9 then odd
+ --> if user number 2 or 4 or 6 or 8 or 10 then even
+
+4. find out whether a given number or a string is palindrome:
+ --> enter a string 
+ --> is user string is exact same in reverse 
+ --> if yes then it is palindrom
+ --> if not enter again
+
+5. find the 10th number of fibonacci series:
+ --> please enter number
+ --> add same number 
+ --> add result to next digit up
+ --> repeat steps until 10th sequence
